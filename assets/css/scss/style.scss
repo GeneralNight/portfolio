@@ -1,5 +1,5 @@
 //bootstrap
-//@import 'bootstrap/bootstrap.scss';
+@import 'bootstrap/bootstrap.scss';
 
 //reboot bootstrap
 //@import 'bootstrap/reboot.scss';
@@ -16,3 +16,4 @@
 @import '_mixins-padrao'; 
 @import '_responsive';
 @import '_geral'; 
+@import './index/intro.scss'
